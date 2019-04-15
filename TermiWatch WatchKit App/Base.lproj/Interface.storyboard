@@ -26,7 +26,7 @@
                                         <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="12"/>
                                     </variation>
                                     <variation key="device=watch42mm">
-                                        <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="15"/>
+                                        <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="14"/>
                                     </variation>
                                     <variation key="device=watch44mm">
                                         <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="16"/>
@@ -40,7 +40,7 @@
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="12"/>
                                             </variation>
                                             <variation key="device=watch42mm">
-                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="15"/>
+                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="14"/>
                                             </variation>
                                             <variation key="device=watch44mm">
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="16"/>
@@ -54,7 +54,7 @@
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="12"/>
                                             </variation>
                                             <variation key="device=watch42mm">
-                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="15"/>
+                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="14"/>
                                             </variation>
                                             <variation key="device=watch44mm">
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="16"/>
@@ -70,7 +70,7 @@
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="12"/>
                                             </variation>
                                             <variation key="device=watch42mm">
-                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="15"/>
+                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="14"/>
                                             </variation>
                                             <variation key="device=watch44mm">
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="16"/>
@@ -83,7 +83,7 @@
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="12"/>
                                             </variation>
                                             <variation key="device=watch42mm">
-                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="15"/>
+                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="14"/>
                                             </variation>
                                             <variation key="device=watch44mm">
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="16"/>
@@ -99,7 +99,7 @@
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="12"/>
                                             </variation>
                                             <variation key="device=watch42mm">
-                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="15"/>
+                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="14"/>
                                             </variation>
                                             <variation key="device=watch44mm">
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="16"/>
@@ -112,7 +112,7 @@
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="12"/>
                                             </variation>
                                             <variation key="device=watch42mm">
-                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="15"/>
+                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="14"/>
                                             </variation>
                                             <variation key="device=watch44mm">
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="16"/>
@@ -128,20 +128,20 @@
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="12"/>
                                             </variation>
                                             <variation key="device=watch42mm">
-                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="15"/>
+                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="14"/>
                                             </variation>
                                             <variation key="device=watch44mm">
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="16"/>
                                             </variation>
                                         </label>
                                         <label alignment="left" text="--" textAlignment="left" id="3dH-MF-gwo" userLabel="Battery Label">
-                                            <color key="textColor" red="0.0035313111890000002" green="1" blue="0.57503079769999998" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                            <color key="textColor" red="0.0039215686274509803" green="1" blue="0.57503079769999998" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                             <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="14"/>
                                             <variation key="device=watch38mm">
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="12"/>
                                             </variation>
                                             <variation key="device=watch42mm">
-                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="15"/>
+                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="14"/>
                                             </variation>
                                             <variation key="device=watch44mm">
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="16"/>
@@ -157,7 +157,7 @@
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="12"/>
                                             </variation>
                                             <variation key="device=watch42mm">
-                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="15"/>
+                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="14"/>
                                             </variation>
                                             <variation key="device=watch44mm">
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="16"/>
@@ -169,7 +169,7 @@
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="12"/>
                                             </variation>
                                             <variation key="device=watch42mm">
-                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="15"/>
+                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="14"/>
                                             </variation>
                                             <variation key="device=watch44mm">
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="16"/>
@@ -185,7 +185,7 @@
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="12"/>
                                             </variation>
                                             <variation key="device=watch42mm">
-                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="15"/>
+                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="14"/>
                                             </variation>
                                             <variation key="device=watch44mm">
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="16"/>
@@ -214,7 +214,7 @@
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="12"/>
                                             </variation>
                                             <variation key="device=watch42mm">
-                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="15"/>
+                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="14"/>
                                             </variation>
                                             <variation key="device=watch44mm">
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="16"/>
@@ -227,7 +227,7 @@
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="12"/>
                                             </variation>
                                             <variation key="device=watch42mm">
-                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="15"/>
+                                                <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="14"/>
                                             </variation>
                                             <variation key="device=watch44mm">
                                                 <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="16"/>
@@ -241,7 +241,7 @@
                                         <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="12"/>
                                     </variation>
                                     <variation key="device=watch42mm">
-                                        <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="15"/>
+                                        <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="14"/>
                                     </variation>
                                     <variation key="device=watch44mm">
                                         <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="16"/>

@@ -51,7 +51,7 @@ struct ActivityRingColors {
 }
 
 struct BatteryStateColors {
-  static let normal = UIColor(red: 0.569, green: 0.831, blue: 0.384, alpha: 1.0)
+  static let normal = UIColor(red: 0.003921568627, green: 1, blue: 0.5764705882, alpha: 1.0)
   static let low = UIColor.red
 }
 
