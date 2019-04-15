@@ -1,0 +1,4 @@
+framework module PMKHealthKit {
+  header "PMKHealthKit-Swift.h"
+  requires objc
+}

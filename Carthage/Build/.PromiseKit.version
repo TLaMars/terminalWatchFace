@@ -1,0 +1,31 @@
+{
+  "Mac" : [
+    {
+      "name" : "PromiseKit",
+      "hash" : "42255015525d9a1bd9ef9dc39fccf23046713851239f6a13fade57cca3003cc6",
+      "swiftToolchainVersion" : "5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+    }
+  ],
+  "watchOS" : [
+    {
+      "name" : "PromiseKit",
+      "hash" : "7edf6b8736ff0604f19f9c00eac0163ffcbcee420e338a6a2f6a5f7a9cf3e959",
+      "swiftToolchainVersion" : "5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+    }
+  ],
+  "tvOS" : [
+    {
+      "name" : "PromiseKit",
+      "hash" : "85af660f94437c1e26a2d9ca47d1b6af95c16fa1b83e1273bba40a4db806bed9",
+      "swiftToolchainVersion" : "5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+    }
+  ],
+  "commitish" : "6.8.4",
+  "iOS" : [
+    {
+      "name" : "PromiseKit",
+      "hash" : "12ce94a56377f1037e22285574bccccbf71826582f4dd5f6a1e796506d1a045f",
+      "swiftToolchainVersion" : "5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+    }
+  ]
+}

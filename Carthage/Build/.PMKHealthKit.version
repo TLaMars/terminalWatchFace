@@ -1,0 +1,23 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+    {
+      "name" : "PMKHealthKit",
+      "hash" : "38707615e0f2d3c0bd3825826df0603436ec8c941f070b532e2533d4b0a9f54b",
+      "swiftToolchainVersion" : "5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+    }
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "1.0.1",
+  "iOS" : [
+    {
+      "name" : "PMKHealthKit",
+      "hash" : "82861eca7b423bf0990cf70f4107490f4f279b10168a98dc760726d52b0c9545",
+      "swiftToolchainVersion" : "5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+    }
+  ]
+}
